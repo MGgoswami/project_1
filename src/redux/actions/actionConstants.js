@@ -1,0 +1,4 @@
+export const SET_API_RESPONSE = 'SET_API_RESPONSE';
+export const GET_API_RESPONSE = 'GET_API_RESPONSE';
+
+export const SET_IS_LOADING = 'SET_IS_LOADING';

@@ -1,0 +1,28 @@
+.d_none{
+display: none;
+}
+
+.activity_holder{
+    width: 90%;
+    height: max-content;
+    background-color: #e1e1e1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.chart_holder{
+    width: 100%;
+}
